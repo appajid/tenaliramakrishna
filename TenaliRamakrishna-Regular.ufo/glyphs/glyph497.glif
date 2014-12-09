@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glyph497" format="1">
+  <advance width="252"/>
+  <outline>
+    <contour>
+      <point x="162" y="-223" type="qcurve"/>
+      <point x="123" y="-223"/>
+      <point x="103" y="-185" type="qcurve"/>
+      <point x="82" y="-223"/>
+      <point x="44" y="-223" type="qcurve"/>
+      <point x="19" y="-223"/>
+      <point x="-17" y="-196"/>
+      <point x="-17" y="-174" type="qcurve"/>
+      <point x="-17" y="-151"/>
+      <point x="18" y="-123"/>
+      <point x="43" y="-123" type="qcurve"/>
+      <point x="75" y="-123"/>
+      <point x="102" y="-151" type="qcurve"/>
+      <point x="106" y="-134"/>
+      <point x="106" y="-119" type="qcurve"/>
+      <point x="106" y="-72"/>
+      <point x="69" y="-51" type="qcurve"/>
+      <point x="75" y="-60"/>
+      <point x="75" y="-72" type="qcurve"/>
+      <point x="75" y="-108"/>
+      <point x="34" y="-108" type="qcurve"/>
+      <point x="19" y="-108"/>
+      <point x="-4" y="-90"/>
+      <point x="-4" y="-74" type="qcurve"/>
+      <point x="-4" y="-55"/>
+      <point x="26" y="-31"/>
+      <point x="47" y="-31" type="qcurve"/>
+      <point x="84" y="-31"/>
+      <point x="104" y="-61" type="qcurve" name="hr01"/>
+      <point x="121" y="-87"/>
+      <point x="121" y="-122" type="qcurve"/>
+      <point x="121" y="-146"/>
+      <point x="112" y="-167" type="qcurve"/>
+      <point x="133" y="-189"/>
+      <point x="157" y="-189" type="qcurve"/>
+      <point x="208" y="-189"/>
+      <point x="208" y="-134" type="qcurve"/>
+      <point x="208" y="-105"/>
+      <point x="192" y="-83" type="qcurve"/>
+      <point x="174" y="-60"/>
+      <point x="142" y="-58" type="qcurve"/>
+      <point x="136" y="-58"/>
+      <point x="131" y="-50"/>
+      <point x="132" y="-42"/>
+      <point x="137" y="-35"/>
+      <point x="142" y="-35" type="qcurve"/>
+      <point x="166" y="-35"/>
+      <point x="181" y="-47" type="qcurve"/>
+      <point x="224" y="-77"/>
+      <point x="224" y="-139" type="qcurve"/>
+      <point x="224" y="-169"/>
+      <point x="210" y="-194" type="qcurve" name="hr02"/>
+      <point x="191" y="-223"/>
+    </contour>
+    <contour>
+      <point x="42" y="-145" type="qcurve"/>
+      <point x="30" y="-145"/>
+      <point x="-1" y="-158"/>
+      <point x="-1" y="-170" type="qcurve"/>
+      <point x="-1" y="-178"/>
+      <point x="9" y="-188"/>
+      <point x="22" y="-193"/>
+      <point x="37" y="-196"/>
+      <point x="43" y="-196" type="qcurve"/>
+      <point x="81" y="-196"/>
+      <point x="94" y="-170" type="qcurve"/>
+      <point x="74" y="-145"/>
+    </contour>
+    <contour>
+      <point x="37" y="-47" type="qcurve"/>
+      <point x="29" y="-46"/>
+      <point x="15" y="-60"/>
+      <point x="15" y="-69" type="qcurve"/>
+      <point x="15" y="-79"/>
+      <point x="26" y="-91"/>
+      <point x="37" y="-91" type="qcurve"/>
+      <point x="48" y="-91"/>
+      <point x="59" y="-78"/>
+      <point x="59" y="-62"/>
+      <point x="48" y="-47"/>
+    </contour>
+    <contour>
+      <point x="121" y="-249" type="qcurve"/>
+      <point x="121" y="-256"/>
+      <point x="110" y="-264"/>
+      <point x="100" y="-264"/>
+      <point x="89" y="-256"/>
+      <point x="89" y="-249" type="qcurve"/>
+      <point x="89" y="-243"/>
+      <point x="93" y="-228"/>
+      <point x="95" y="-221" type="qcurve"/>
+      <point x="99" y="-212"/>
+      <point x="103" y="-203" type="qcurve"/>
+      <point x="108" y="-210"/>
+      <point x="121" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="-223" width="27" />
+      <hstem pos="-145" width="22" />
+      <hstem pos="-108" width="17" />
+      <hstem pos="-58" width="23" />
+      <vstem pos="-17" width="16" />
+      <vstem pos="89" width="32" />
+      <vstem pos="208" width="16" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="-189" width="-20" />
+      <hstem pos="-145" width="22" />
+      <hstem pos="-108" width="17" />
+      <hstem pos="-31" width="-20" />
+      <vstem pos="-4" width="79" />
+      <vstem pos="106" width="15" />
+      <vstem pos="208" width="16" />
+    </hintset>
+    <hintset pointTag="">
+      <hstem pos="-223" width="27" />
+      <hstem pos="-145" width="22" />
+      <hstem pos="-108" width="17" />
+      <hstem pos="-58" width="23" />
+      <vstem pos="-17" width="16" />
+      <vstem pos="89" width="32" />
+      <vstem pos="208" width="16" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

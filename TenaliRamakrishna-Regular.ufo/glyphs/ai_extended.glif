@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ai_extended" format="1">
+  <advance width="2"/>
+  <outline>
+    <contour>
+      <point x="-424" y="-482" type="qcurve"/>
+      <point x="-431" y="-470"/>
+      <point x="-433" y="-442"/>
+      <point x="-429" y="-428" type="qcurve"/>
+      <point x="-424" y="-412"/>
+      <point x="-399" y="-389"/>
+      <point x="-380" y="-387" type="qcurve"/>
+      <point x="-348" y="-384"/>
+      <point x="-317" y="-420"/>
+      <point x="-317" y="-445" type="qcurve"/>
+      <point x="-317" y="-456"/>
+      <point x="-324" y="-476"/>
+      <point x="-329" y="-480" type="qcurve"/>
+      <point x="-95" y="-480" type="line"/>
+      <point x="-87" y="-480"/>
+      <point x="-79" y="-490"/>
+      <point x="-79" y="-502"/>
+      <point x="-87" y="-512"/>
+      <point x="-95" y="-512" type="qcurve"/>
+      <point x="-371" y="-512" type="line"/>
+      <point x="-386" y="-512"/>
+      <point x="-416" y="-496"/>
+    </contour>
+    <contour>
+      <point x="-376" y="-417" type="qcurve"/>
+      <point x="-390" y="-418"/>
+      <point x="-406" y="-437"/>
+      <point x="-406" y="-448" type="qcurve"/>
+      <point x="-406" y="-461"/>
+      <point x="-392" y="-481"/>
+      <point x="-376" y="-482" type="qcurve" name="hr01"/>
+      <point x="-362" y="-483"/>
+      <point x="-339" y="-468"/>
+      <point x="-338" y="-451" type="qcurve"/>
+      <point x="-338" y="-436"/>
+      <point x="-359" y="-415"/>
+    </contour>
+    <contour>
+      <point x="-231" y="-137" type="move" name="_mark0"/>
+    </contour>
+    <contour>
+      <point x="-229" y="38" type="move" name="_mark0"/>
+    </contour>
+    <contour>
+      <point x="-230" y="8" type="move" name="_mark0"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="-512" width="32" />
+      <vstem pos="-338" width="21" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="221"/>
+  <unicode hex="0022"/>
+  <outline>
+    <contour>
+      <point x="172" y="372" type="line" name="hr00"/>
+      <point x="165" y="339"/>
+      <point x="165" y="272" type="qcurve"/>
+      <point x="129" y="272" type="line"/>
+      <point x="129" y="339"/>
+      <point x="121" y="372" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="100" y="372" type="line"/>
+      <point x="96" y="354"/>
+      <point x="92" y="304"/>
+      <point x="92" y="272" type="qcurve"/>
+      <point x="56" y="272" type="line"/>
+      <point x="56" y="339"/>
+      <point x="48" y="372" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="272" width="100" />
+      <vstem pos="56" width="36" />
+      <vstem pos="129" width="36" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
